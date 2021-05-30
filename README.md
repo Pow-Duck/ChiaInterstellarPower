@@ -1,9 +1,9 @@
 # Chia InterstellarPower
 Chia InterstellarPower 
 
-This is a Free, Open Source, Visual, Easy to operate intelligent Chia drawing tool
+This is a Free, Open Source, Visual, Easy to operate intelligent Chia Plotting tool
 
-这是一个免费的、开源的、可视化的、易于操作的智能 奇亚绘图工具。
+这是一个免费的、开源的、可视化的、易于操作的智能 奇亚 绘图工具。
 
 Under development
 
