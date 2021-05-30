@@ -1,6 +1,8 @@
 # Chia InterstellarPower
 Chia InterstellarPower 
 
+![](./PowDuck.png)
+
 This is a Free, Open Source, Visual, Easy to operate intelligent Chia Plotting tool
 
 这是一个免费的、开源的、可视化的、易于操作的智能 奇亚 绘图工具.(Chia 全自动P图工具)
