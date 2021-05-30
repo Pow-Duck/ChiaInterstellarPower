@@ -1,2 +1,15 @@
-# InterstellarPower
-InterstellarPower  星际动力 全自动P盘
+# Chia InterstellarPower
+Chia InterstellarPower 
+
+This is a Free, Open Source, Visual, Easy to operate intelligent Chia drawing tool
+
+这是一个免费的、开源的、可视化的、易于操作的智能 奇亚绘图工具。
+
+Under development
+
+正在开发中
+
+请给予鼓励和支持
+
+Please give encouragement and support
+
