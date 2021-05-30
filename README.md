@@ -9,7 +9,7 @@ Under development
 
 正在开发中
 
-请给予鼓励和支持
-
 Please give encouragement and support
+
+请给予鼓励和支持
 
