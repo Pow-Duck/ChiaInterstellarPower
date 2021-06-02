@@ -1,7 +1,7 @@
 # Chia InterstellarPower
 Chia InterstellarPower 
 
-![](./PowDuck.png)
+![](Document/PowDuck.png)
 
 This is a Free, Open Source, Visual, Easy to operate intelligent Chia Plotting tool
 
